@@ -52,6 +52,10 @@ aside a:hover {
     transform: scale(1.1); /* Efeito de zoom ao passar o mouse */
 }
 
+.aside-footer {
+    margin-top: auto;
+}
+
 /* A divisória que você criou */
 .divider {
     width: 90%;
