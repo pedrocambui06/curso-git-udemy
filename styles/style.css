@@ -187,3 +187,47 @@ button:hover {
     gap: 20px;
     font-size: 2.5rem;
 }
+
+/* --- RESPONSIVIDADE --- */
+
+@media (max-width: 850px) {
+    /* Muda o layout de colunas para linhas */
+    .container {
+        flex-direction: column;
+    }
+
+    /* Faz o aside ocupar a largura total no topo */
+    aside {
+        width: auto; /* Remove os 20vw */
+        min-height: auto;
+        padding: 40px 20px;
+    }
+
+    /* Ajusta o conteúdo principal */
+    main {
+        padding: 30px 20px;
+    }
+
+    /* Ajusta o título principal para não estourar em telas pequenas */
+    .container-main-up h1 {
+        font-size: 2.2rem;
+    }
+
+    /* Ajusta a seção de tecnologias para 1 coluna apenas */
+    .container-main-down {
+        grid-template-columns: 1fr; /* Força os cards a ficarem um embaixo do outro */
+        column-gap: 0;
+    }
+
+    /* Opcional: Centraliza o botão em telas menores */
+    .container-main-up {
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .container-idioma {
+        justify-content: center;
+    }
+}
