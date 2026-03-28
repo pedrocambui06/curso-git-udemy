@@ -1,57 +1,39 @@
-# Curso Git/GitHub | Udemy
+# Curso Git & GitHub | Matheus Battisti - Hora de Codar | Udemy
+Este repositório foi criado com o objetivo de documentar os conhecimentos adquiridos ao longo do curso "Git e GitHub do básico ao avançado (c/ gist e GitHub Pages)", abordando desde os conceitos fundamentais até práticas mais avançadas utilizadas no dia a dia
 
-Este repositório contém o material prático, anotações e exercícios do curso de Git e GitHub. O objetivo é servir como um guia de consulta rápida para comandos básicos e avançados, além de explorar as ferramentas de colaboração da plataforma GitHub.
+Acesse o projeto:
 
-📌 Índice
-Git: Gestão de Versão
+## Principais Conteúdos Abordados
 
-GitHub: Colaboração e Ecossistema
+* Comandos fundamentais: ```git init, git clone, git add, git commit, git push, git pull```
+* Gerenciamento de branches ```git branch, git checkout, git switch, git merge```
+* Comandos avançados: ```git rebase, git stash, git reset, git reflog, git clean, git gc, git fsck```
+* Resolução de conflitos
+* Técnica de escrita de commits Conventional Commits 
 
-Hospedagem e Documentação
+## Conceitos de GitHub
+* Criação e gerenciamento de repositórios
+* Uso de **Issues** para organização de tarefas
+* Fluxo de trabalho com **Pull Requests**
+* Processo de **Code Review**
+* Criação de **Wiki** para documentações
+* Gerenciamento de projetos com **GitHub Projects**
+* Colaboração em equipe utilizando boas práticas
+* Compartilhamento de código com **Gists**
 
-Tecnologias Utilizadas
+## Portfólio com GitHub Pages
+Durante o curso, foi feito um portfólio simples utilizando **HTML e CSS**, aplicando conceitos de versionamento e colaboração, com organização do projeto em diferentes **branches** para representar etapas do desenvolvimento, uso de **Pull Requests** para integração das alterações, **Issues** para gerenciamento de tarefas, a aba **Projects** para organização do fluxo de trabalho e utilização de **tags** para registro de versões. No final, o projeto foi publicado com um deploy simples utilizando o **GitHub Pages**, tornando o portfólio acessível online
 
-🛠 Git: Gestão de Versão
-Nesta seção, exploramos o funcionamento interno e os comandos de linha de comando (CLI) para gerenciar o histórico do projeto.
+## Documentação com Markdown
+* Estruturação de arquivos README.md
+* Escrita de documentação clara e profissional
+* Uso de títulos, listas, links, imagens e blocos de código
 
-🔹 Fundamentos e Visualização
-Comandos Básicos: init, add, commit, push, pull e fetch.
+## Noções Básicas de Hospedagem de Sites
+* Conceitos fundamentais de hospedagem web
+* Diferença entre domínio e servidor
+* Tipos de hospedagem (estática e dinâmica)
+* Publicação e disponibilização de sites na internet
+* Introdução ao processo de deploy
 
-Logs & Diffs: Uso do git log para histórico e git diff para comparar alterações entre arquivos, commits ou branches.
-
-Compressão de Repositório: Técnicas de otimização e limpeza do banco de dados do Git para manter o repositório leve.
-
-🔹 Organização e Fluxo de Trabalho
-Branches (Ramos): Criação e alternância de contextos de desenvolvimento.
-
-Tags: Marcação de pontos específicos na história (versões de release, ex: v1.0.0).
-
-Stash: Armazenamento temporário de alterações para permitir a troca de branch sem perder o progresso atual.
-
-Submodules: Como gerenciar repositórios dentro de outros repositórios, mantendo dependências externas versionadas.
-
-🐙 GitHub: Colaboração e Ecossistema
-O GitHub vai muito além do armazenamento de código; ele é uma plataforma completa de gestão de software.
-
-Issues: Registro de tarefas, bugs e discussões do projeto.
-
-Pull Requests (PRs): Fluxo de revisão de código e merge de funcionalidades.
-
-Projects: Organização do fluxo de trabalho através de quadros Kanban.
-
-Wiki: Espaço dedicado para documentação técnica aprofundada do projeto.
-
-Gists: Compartilhamento de pequenos trechos de código (snippets) ou notas rápidas.
-
-GitHub Actions (CI/CD): Automação de builds, testes e deploys contínuos diretamente no repositório.
-
-🌐 Hospedagem e Documentação
-Além do versionamento, aprendemos como colocar projetos no ar e como escrever para a web.
-
-📝 Markdown
-Domínio da linguagem de marcação para criar READMEs, wikis e documentações profissionais, utilizando títulos, listas, tabelas e blocos de código.
-
-🚀 GitHub Pages & Hospedagem
-Conceitos de Hospedagem: Diferença entre cliente/servidor, domínios e servidores de arquivos estáticos.
-
-GitHub Pages: Publicação gratuita de sites estáticos (HTML/CSS/JS) diretamente a partir de um repositório.
+Feito por [Pedro C. Martins](https://github.com/pedrocambui06)
