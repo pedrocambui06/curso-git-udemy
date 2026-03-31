@@ -1,7 +1,7 @@
 # Curso Git & GitHub | Matheus Battisti - Hora de Codar | Udemy
 Este repositório foi criado com o objetivo de documentar os conhecimentos adquiridos ao longo do curso "Git e GitHub do básico ao avançado (c/ gist e GitHub Pages)", abordando desde os conceitos fundamentais até práticas mais avançadas utilizadas no dia a dia
 
-Acesse o projeto:
+Acesse o projeto: https://curso-git-udemy.vercel.app
 
 ## Principais Conteúdos Abordados
 
